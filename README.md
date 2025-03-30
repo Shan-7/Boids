@@ -39,7 +39,7 @@ Each boid follows these rules:
 ## Installation & Usage  
 1️⃣ Clone this repository:  
    ```
-   git clone https://github.com/yourusername/boids-esp32.git
+   git clone https://github.com/Shan-7/boids-esp32.git
    ```  
 2️⃣ Install required libraries via Arduino IDE or PlatformIO  
 3️⃣ Upload the code to your ESP32  
