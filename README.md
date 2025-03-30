@@ -53,6 +53,6 @@ Each boid follows these rules:
 ---
 
 💡 **Contributions & Ideas Welcome!** Open an issue or fork the repo.  
-📩 **Let’s connect!** Ping me on [LinkedIn](https://linkedin.com/in/yourprofile).  
+📩 **Let’s connect!** Ping me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shantanu-shendre/)).  
 
 #ESP32 #BoidsAlgorithm #SwarmAI #OLED #EmbeddedSystems #Arduino #MachineLearning
